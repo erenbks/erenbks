@@ -1,7 +1,10 @@
-## Hi there 👋
+# Hi there 👋
+### About me:
 I am Eren a psychology graduate and a master's student in the field of Cognitive Psychology and Cognitive Neuroscience.
-I've always had an interest in programming languages and computers.
-Currently I want to improve myself on data science and learning about it.
+### My interests:
+I've always had an interest in programming languages and computers and lately I am interested in machine learning and AI.
+### My goal:
+Currently I want to learn about data science tools and improve myself on it.
 <!--
 **erenbks/erenbks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
