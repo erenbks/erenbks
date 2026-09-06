@@ -1,10 +1,9 @@
 # Hi there 👋
 ### About me:
-I am Eren a psychology graduate and a master's student in the field of Cognitive Psychology and Cognitive Neuroscience.
-### My interests:
-I've always had an interest in programming languages and computers and lately I am interested in machine learning and AI.
-### My goal:
-Currently I want to learn about data science tools and improve myself on them.
+I am Eren
+#### How to reach me:
+[My Instagram](https://www.instagram.com/wrwnwrw/)
+[My LinkedIn](https://www.linkedin.com/in/eren-bak%C5%9Fi/)
 <!--
 **erenbks/erenbks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
